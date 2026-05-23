@@ -1,0 +1,25 @@
+{
+  "intents": [
+    {
+      "intent_id": "young-consumers",
+      "name": "年轻人消费",
+      "description": "关注年轻消费人群偏好、社媒趋势、价格带变化与新品类接受度",
+      "keywords": ["年轻人", "Z世代", "社媒", "潮流", "性价比", "种草", "小红书", "tiktok"]
+    },
+    {
+      "intent_id": "esg",
+      "name": "ESG",
+      "description": "关注可持续、碳足迹、溯源、劳工与合规披露等政策与舆论变化",
+      "keywords": ["ESG", "碳足迹", "可持续", "溯源", "合规披露", "环保", "劳工", "供应链"]
+    },
+    {
+      "intent_id": "lab-grown-diamond",
+      "name": "实验室钻石",
+      "description": "关注培育钻/合成钻的供给、价格、渠道与消费者认知变化",
+      "keywords": ["实验室钻石", "培育钻", "合成钻", "lab grown", "价格下探", "替代天然钻"],
+      "synonyms": {
+        "实验室钻石": ["培育钻", "合成钻", "lab grown diamond", "lab-grown diamond"]
+      }
+    }
+  ]
+}

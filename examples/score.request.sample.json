@@ -1,0 +1,43 @@
+{
+  "events": [
+    {
+      "canonical_event_key": "evt_001",
+      "region": "north_america",
+      "topic": "social",
+      "strategic_vertical": "gold_jewellery",
+      "summary": "TikTok 上“lab grown diamond”相关内容热度上升，讨论集中在价格优势与环保属性。",
+      "primary_source_id": "doc_001",
+      "supporting_source_ids": ["doc_002"],
+      "source_count": 2,
+      "importance_score": 0.6,
+      "confidence_score": 0.5
+    },
+    {
+      "canonical_event_key": "evt_002",
+      "region": "europe",
+      "topic": "macro_gold",
+      "strategic_vertical": "gold_jewellery",
+      "summary": "欧盟讨论扩大珠宝产品溯源与碳披露要求，可能影响供应链与合规成本。",
+      "primary_source_id": "doc_010",
+      "supporting_source_ids": ["doc_011", "doc_012"],
+      "source_count": 3,
+      "importance_score": 0.6,
+      "confidence_score": 0.8
+    },
+    {
+      "canonical_event_key": "evt_003",
+      "region": "greater_china",
+      "topic": "competition",
+      "strategic_vertical": "overseas_retail_channels",
+      "summary": "某电商平台调整珠宝类目佣金传闻，尚无官方公告，需要进一步验证。",
+      "primary_source_id": "doc_020",
+      "supporting_source_ids": [],
+      "source_count": 1,
+      "importance_score": 0.6,
+      "confidence_score": 0.2
+    }
+  ],
+  "include_debug": true,
+  "top_k": 10,
+  "threshold": 0.0
+}
